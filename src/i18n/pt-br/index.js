@@ -12,7 +12,7 @@ import convert from './convert';
 import viewer from './viewer';
 
 export default {
-    title: 'Editor de fotos online gratuito',
+    title: 'FUYAO IMAGE - Editor de fotos online gratuito',
     description: 'Edite fotos online grátis, redimensione e aplique filtros, converta imagens para JPG/PNG/JPEG/WebP e capture tela inteira ou área selecionada.',
     keywords: 'ShotEasy, captura de tela online, editar foto, conversor de fotos, conversor de imagem, editor online, converter formato de imagem online, converter imagem para jpg, jpg para webp, jpg para png',
     privacy: 'Privacidade',

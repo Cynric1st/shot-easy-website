@@ -12,7 +12,7 @@ import convert from './convert';
 import viewer from './viewer';
 
 export default {
-    title: 'スクリーンショットと写真編集をオンラインで無料利用 | ShotEasy',
+    title: 'FUYAO IMAGE - スクリーンショットと写真編集をオンラインで無料利用',
     description:
         'オンラインで写真を無料で編集、リサイズ、フィルタリングができます。ブラウザで写真を編集、画像をjpg/png/jpeg/webpに変換、簡単に画面の一部または全体をスクリーンショットできます',
     keywords:
